@@ -1,0 +1,35 @@
+4	Aliens
+5	Armageddon
+6	As Good As It Gets
+6	Braveheart
+6	Chasing Amy
+6	Contact
+6	Dante's Peak
+6	Deep Impact
+6	Executive Decision
+7	Forrest Gump
+7	Ghost
+7	Gone with the Wind
+7	Good Will Hunting
+7	Grease
+7	Halloween
+7	Hard Rain
+7	I Know What You Did Last Summer
+7	Independence Day
+7	Indiana Jones and the Last Crusade
+7	Jaws
+7	Men in Black
+7	Multiplicity
+7	Pulp Fiction
+7	Raiders of the Lost Ark
+8	Saving Private ryan
+8	Schindler's List
+8	Scream
+8	Speed 2:Cruise Control
+8	Terminator
+8	The American President
+8	The Fifth Element
+8	The Game
+8	The Man in the Iron Mask
+8	Titanic
+9	True Lies

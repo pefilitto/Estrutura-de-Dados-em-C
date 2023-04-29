@@ -1,0 +1,30 @@
+R	Aliens
+R	Braveheart
+R	Chasing Amy
+R	Executive Decision
+R	Good Will Hunting
+R	Halloween
+R	Hard Rain
+R	I Know What You Did Last Summer
+R	Pulp Fiction
+R	Saving Private ryan
+R	Schindler's List
+R	Scream
+R	Terminator
+R	The Game
+R	True Lies
+PG-13	Armageddon
+PG-13	As Good As It Gets
+PG-13	Dante's Peak
+PG-13	Deep Impact
+PG-13	Forrest Gump
+PG-13	Ghost
+PG-13	Independence Day
+PG-13	Indiana Jones and the Last Crusade
+PG-13	Men in Black
+PG-13	Multiplicity
+PG-13	Speed 2:Cruise Control
+PG-13	The American President
+PG-13	The Fifth Element
+PG-13	The Man in the Iron Mask
+PG-13	Titanic
